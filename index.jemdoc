@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Irene Grace Karot Polson
+
+~~~
+{}{img_left}{biopic1.jpg}{alt text}{150}{180}{http://people.kth.se/~euhanna/}
+Undergraduate\n [https://www.iitk.ac.in/aero/ Aerospace Engineering Department] \n[https://www.iitk.ac.in/ Indian Institute of Technology Kanpur]\n
+ \n
+Email: irenegkp@iitk.ac.in \n 
+Phone: +91 9495939273 \n
+~~~
+
+== About me
+I am a senior year Aerospace Engineering undergraduate at IIT Kanpur and an aspiring scientist. My primary research interests are in developing intelligent control algorithms for various systems. I currently in the field of adaptive and optimal control as a research intern at the [http://aero.iisc.ac.in/people/debasish-ghose/ Guidance, Control and Decision Systems Laboratory] under the mentorship of Dr. Debasish Ghosh and as a research assistant at the [https://sites.google.com/view/dipakgiri/home Space Dynamics and Flight Control Laboratory] under the guidance of Dr. Dipak Kumar Giri.
+
+== Research 
+My research interests lie at the intersection of control theory, adaptive systems and machine learning.  \n Through out my undergraduate, I have been exploring these different fields till I finally found my calling. All along I had been working in the periphery of adaptive controls by carrying out parameter estimations, system identifications and online tuning of PID controllers. \n
+
+== Publications 
+- I. G. Karot and D.K. Giri, Derivative-free adaptive satellite attitude control, Indian Control Conference 7, Dec 20-22 December 2021, in press.
+- I. G. Karot, M. Kumar and N. Selvaganesan, Control System Design for MIMO System using Bond graph Representation - Quadcopter as a Case Study, Indian Control Conference 7, in press.
+- I. G. Karot & G. Debasish, Indian National Association of Engineers Mentorship Program Report, Autonomous Multi-Drone Systems to Large Structure Inspections]
+
+== Education
+B-Tech Indian Institute of Technology, Kanpur 2018 - 2022 \n
+Major: Aerospace Engineering | CPI : 8.76 \n
+\n
+XII Graduation Maharishi Vidya Mandir, Chennai 2016 - 2018\n
+Computer Science, Mathematics | Percentage : 97.2% \n
+
+X Graduation Chennai Public School, Chennai 2014 - 2016\n
+Science, Mathematics | CGPA : 10/10 \n
+
+[researchprojects.html Find out more about my research and projects]
