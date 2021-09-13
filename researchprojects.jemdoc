@@ -13,7 +13,7 @@ Here you can find most of my undergraduate work. I spend most of my time in univ
 - Exploring the use of evolutionary optimisation techniques such as Genetic algorithm in online parameter correction and optimisation. \n
 ~~~
 \n
-Resources: [pdfs/Irene_IEEE_1.pdf Indian Control Conference 7 Paper] / [researchprojects.html Code]
+Resources: [pdfs/Irene_IEEE_1.pdf Indian Control Conference 7 Paper] / [https://github.com/irenegracekp/Derviative_free_adaptive_control.git Code]
 
 == Autonomous Multi-Drone Systems to Large Structure Inspections
 
@@ -24,26 +24,26 @@ Resources: [pdfs/Irene_IEEE_1.pdf Indian Control Conference 7 Paper] / [research
 
 ~~~
 
-Resources: [pdfs/INAE_Report_CPP.pdf INAE Report] / [researchprojects.html Code]
+Resources: [pdfs/INAE_Report_CPP.pdf INAE Report] / [https://github.com/irenegracekp/Lissajous_curves_coveragePP.git Code]
 
 == Control System Design for MIMO System using Bond graph Representation
 
 ~~~
-{}{img_left}{pics/projectpic3.jpg}{alt text}{460}{300}{https://irenegracekp.github.io/}
+{}{img_left}{pics/projectpic3.jpg}{alt text}{460}{300}{pdfs/Irene_IEEE_2.pdf}
 - Developed a power-based graphical representation of system and its PID position and altitude controller using bond graph approach. Reduced  bond  graph  model  is  derived  and  feedback  is obtained from inertial elements of the reduced model.
 - The entire closed-loop MIMO system is represented using 20SIM bond graph software and the simulations are performed to meet satisfactory stable responses under tracking and disturbance conditions
 ~~~
 \n
-Resources: [pdfs/Irene_IEEE_2.pdf Indian Control Conference 7 Paper] / [researchprojects.html Code]
+Resources: [pdfs/Irene_IEEE_2.pdf Indian Control Conference 7 Paper] / [https://github.com/irenegracekp Code]
 
 == Wingtip Vortices Parameter Estimation to Analyse Instabilities
 
 ~~~
-{}{img_left}{pics/projectpic4.jpg}{alt text}{780}{390}{pdfs/INAE_Report_CPP.pdf}
+{}{img_left}{pics/projectpic4.jpg}{alt text}{780}{390}{pdfs/Wingtip_vortices_summary.pdf}
 ~~~
 
 - Verification of Batchelor and Lamb-Oseen Models at low Reynolds using curve fitting of simulation data for Re=1000 using MATLAB curve fitting tools and VisIT flow visualisation. 
 - Analysis of instability in wingtip vortices and capture the formation of vortices by performing an extensive analysis for flows with various Reynolds number for both single wing and split wing configurations. 
 
 
-Resources: [pdfs/Wingtip_vortices_summary.pdf Research Presentation Report] / [researchprojects.html Code]
+Resources: [pdfs/Wingtip_vortices_summary.pdf Research Presentation Report] / [https://github.com/irenegracekp/Parameter_estimation_Wingtip.git Code]
