@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{index.html}, noopener 
+== Technical Internships
+
+
+Here you can find a brief about the work and research carried out as a part of my internships. All my interns have been in the aerospace department and one intern always led to the other in regards to fields and expertise.
+
+== Airbus Internship
+
+~~~
+{}{img_left}{pics/projectpic5.jpg}{alt text}{780}{390}{https://www.airbus.com/}
+~~~
+\n
+- Developing an algorithm to automatically identify and classify commercial air-crafts into training, delivery, test flights. It was developed in Java using flight parameters and black-box data.
+
+== Controls System Development Intern
+
+~~~
+{}{img_left}{pics/projectpic6.jpg}{alt text}{500}{250}{https://www.range.aero/}
+- Automating the process of parameter estimation of PID controllers in a control system simultaneously. 
+- Found optimal gains using evolutionary optimization techniques such as Genetic Algorithm 
+- Using PX4 simulator for the simulation environment with Quadcopter simulation using JMAVsim or connections to Pixhawk. 
+- MAVLink connections through UDP ports were used to MATLAB for optimization and parameter setting.
+
+~~~
+
+Resources: [Range_Document.pdf Documentation] / [https://github.com/irenegracekp/AutoTune_PID_Genetic_Algo.git Code]
+
+== Zeus Numerix Summer Intern
+
+~~~
+{}{img_left}{pics/projectpic7.jpg}{alt text}{750}{210}{https://www.zeusnumerix.com/}
+~~~
+\n
+
+- Implementation of Kalman Filter over Neural Networks to perform target tracking on passive Radar signal bearing angles. Using the bearing angles and timestamps, we predict the target trajectory.
+- Classify satellite images into classes of military targets using PyTorch and Sci-Kit learn libraries. Worked with a dataset of planes ( 25000 images) to do binary classification and a dataset of different classes of ships ( 8000+) to do multi-class classification. 
+
+Resources: [pdfs/Zeus_document.pdf Documentaion] / [https://github.com/irenegracekp/Satellite_SARS_ImageClassificationCNN.git Code]
