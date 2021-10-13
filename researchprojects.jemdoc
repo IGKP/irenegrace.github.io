@@ -7,7 +7,7 @@ Here you can find most of my undergraduate work. I spend most of my time in univ
 == Spacecraft Attitude Control using Derivative-free Purely Adaptive Controller
 
 ~~~
-{}{img_left}{pics/projectpic1.jpg}{alt text}{460}{320}{pdfs/Irene_IEEE_1.pdf}
+{}{img_left}{pics/projectpic1.jpg}{alt text}{460}{320}{pdfs/ACC22_0633_MS.pdf}
 - Developed adaptive controllers with derivative free weight update laws to make a fault-tolerant attitude controller for satellite systems. The satellite system and states were represented using modified Rodrigues parameters.
 - Currently working on machine learning and evolutionary optimisation techniques' applications on adaptive laws and control as a part of my undergraduate project.
 - Exploring the use of evolutionary optimisation techniques such as Genetic algorithm in online parameter correction and optimisation. \n
@@ -29,7 +29,7 @@ Resources: [pdfs/INAE_Report_CPP.pdf INAE Report] / [https://github.com/irenegra
 == Control System Design for MIMO System using Bond graph Representation
 
 ~~~
-{}{img_left}{pics/projectpic3.jpg}{alt text}{460}{300}{pdfs/Irene_IEEE_2.pdf}
+{}{img_left}{pics/projectpic3.jpg}{alt text}{460}{300}{pdfs/ICC007_0115_FI.pdf}
 - Developed a power-based graphical representation of system and its PID position and altitude controller using bond graph approach. Reduced  bond  graph  model  is  derived  and  feedback  is obtained from inertial elements of the reduced model.
 - The entire closed-loop MIMO system is represented using 20SIM bond graph software and the simulations are performed to meet satisfactory stable responses under tracking and disturbance conditions
 ~~~
