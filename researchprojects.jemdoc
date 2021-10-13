@@ -4,7 +4,7 @@
 
 Here you can find most of my undergraduate work. I spend most of my time in university as well as remotely at home due to COVID-19 working on these.
 
-== Derivative-free Adaptive Satellite Attitude Control
+== Spacecraft Attitude Control using Derivative-free Purely Adaptive Controller
 
 ~~~
 {}{img_left}{pics/projectpic1.jpg}{alt text}{460}{320}{pdfs/Irene_IEEE_1.pdf}
@@ -13,9 +13,9 @@ Here you can find most of my undergraduate work. I spend most of my time in univ
 - Exploring the use of evolutionary optimisation techniques such as Genetic algorithm in online parameter correction and optimisation. \n
 ~~~
 \n
-Resources: [pdfs/Irene_IEEE_1.pdf Indian Control Conference 7 Paper] / [https://github.com/irenegracekp/Derviative_free_adaptive_control.git Code]
+Resources: [pdfs/ACC22_0633_MS.pdf American Control Conference 2022 Paper] / [https://github.com/irenegracekp/Derviative_free_adaptive_control.git Code]
 
-== Autonomous Multi-Drone Systems to Large Structure Inspections
+== Autonomous Drone Systems for Large Structure Inspections using Lissajous Curves
 
 ~~~
 {}{img_left}{pics/projectpic2.jpg}{alt text}{460}{390}{pdfs/INAE_Report_CPP.pdf}
@@ -34,7 +34,7 @@ Resources: [pdfs/INAE_Report_CPP.pdf INAE Report] / [https://github.com/irenegra
 - The entire closed-loop MIMO system is represented using 20SIM bond graph software and the simulations are performed to meet satisfactory stable responses under tracking and disturbance conditions
 ~~~
 \n
-Resources: [pdfs/Irene_IEEE_2.pdf Indian Control Conference 7 Paper] / [https://github.com/irenegracekp Code]
+Resources: [pdfs/ICC007_0115_FI.pdf Indian Control Conference 7 Paper] / [https://github.com/irenegracekp Code]
 
 == Wingtip Vortices Parameter Estimation to Analyse Instabilities
 
