@@ -3,16 +3,18 @@
 
 ~~~
 {}{img_left}{pics/biopicfinal.jpg}{alt text}{233}{300}{https://irenegracekp.github.io/}
-Undergraduate\n [https://www.iitk.ac.in/aero/  Department of Aerospace Engineering] \n[https://www.iitk.ac.in/ Indian Institute of Technology Kanpur]\n
+Graduate Student\n [https://www.me.upenn.edu/  Robotics] \n[https://www.upenn.edu/ University of Pennsylvania]\n
  \n
-Research Assistant\n [http://aero.iisc.ac.in/people/debasish-ghose/ Guidance, Control and Decision Systems Laboratory] \n[https://iisc.ac.in/ IISc Bangalore]\n
+Research Assistant\n [https://www.seas.upenn.edu/~dineshj/pal/index.html Perception, Action, & Learning Research Group]\n
+ \n
+Undergraduate\n [https://www.iitk.ac.in/aero/  Department of Aerospace Engineering] \n[https://www.iitk.ac.in/ Indian Institute of Technology Kanpur]\n
  \n
 Email: [irenegkp@seas.upenn.edu irenegkp@seas.upenn.edu] \n 
 Phone: \+1 267 301 0960 \n
 ~~~
 
 == About me
-I am a senior year Aerospace Engineering undergraduate at IIT Kanpur and an aspiring scientist. My primary research interests are in developing intelligent control algorithms for various systems. I am currently working in the field of adaptive and optimal control as a research intern at the [http://aero.iisc.ac.in/people/debasish-ghose/ */Guidance, Control and Decision Systems Laboratory/*] under the mentorship of Dr. Debasish Ghosh and as a research assistant at the [https://sites.google.com/view/dipakgiri/home */Space Dynamics and Flight Control Laboratory/*] under the guidance of Dr. Dipak Kumar Giri.
+I am a graduate student at UPenn in MEAM specialising in Robotic and Mechatronic Systems. My primary research interests are in developing intelligent control algorithms for various systems. Currently I am working on deep reinforcement learning for robotic systems. I had previously worked in the field of adaptive and optimal control as a research intern at the [http://aero.iisc.ac.in/people/debasish-ghose/ */Guidance, Control and Decision Systems Laboratory/*] under the mentorship of Dr. Debasish Ghosh and as a research assistant at the [https://sites.google.com/view/dipakgiri/home */Space Dynamics and Flight Control Laboratory/*] under the guidance of Dr. Dipak Kumar Giri.
 
 == Research 
 Through out my undergraduate, I have been exploring these different fields till I finally found my calling. All along I had been working in the periphery of adaptive controls by carrying out parameter estimations, system identifications and online tuning of PID controllers. My research interests lie at the intersection of control theory, adaptive systems and machine learning. \n
@@ -21,9 +23,6 @@ Through out my undergraduate, I have been exploring these different fields till 
 - I. G. Karot, M. Kumar and N. Selvaganesan, "Control System Design for MIMO System using Bond graph Representation - Quadcopter as a Case Study," 
  7th Indian Control Conference, accepted and invited for presentation, Dec 20-22 2021.
 - I. G. Karot and D.K. Giri, "Spacecraft Attitude Control using Derivative-free Purely Adaptive Controller," 
-Manuscript 633 submitted to 2022 American Control Conference.
-- I. G. Karot , S. Nath, D. Ghosh, "Autonomous Drone Systems for Large Structure Inspections using Lissajous Curves," 
-Manuscript 686 submitted to 2022 American Control Conference.
 
 == Education
 B-Tech Indian Institute of Technology, Kanpur 2018 - 2022 \n
