@@ -4,6 +4,32 @@
 
 Here you can find most of my undergraduate work. I spend most of my time in university as well as remotely at home due to COVID-19 working on these.
 
+== F1Tenth Autonomous Racing
+~~~
+{}{img_left}{pics/F1_team_pic.jpg}{alt text}{460}{320}{}
+- Designed and deployed a high-speed ROS2 autonomous driving stack on \n NVIDIA Jetson Xavier NX. 
+- Our stack featured Automatic Emergency Breaking (AEB), a pure-pursuit \n controller, and precision navigation with RRT and occupancy grid-based obstacle avoidance.
+~~~
+
+== Obstacle Avoidance Trajectory Planner And Controller for Quadrotor
+~~~
+{}{img_left}{pics/meam_620_pic.jpg}{alt text}{430}{320}{pdfs/MEAM620_LabReport_Irene.pdf}
+- Engineered the autonomy stack for the CrazyFlie quadrotor, seamlessly integrating a nonlinear \n geometric controller, a 3D trajectory and motion planner employing A*/Dijkstra algorithms for obstacle configuration space, \n and a minimum jerk polynomial trajectory generator optimized through quadratic programming.
+
+Resources: [pdfs/MEAM620_LabReport_Irene.pdf Lab Report]
+~~~
+
+== Pick and Place with Panda Arm Motion Planning
+~~~
+{}{img_left}{pics/meam520_pic.jpg}{alt text}{260}{320}{pdfs/MEAM_5200_Final_Report_Irene.pdf}
+- Utilized inverse kinematics to compute precise joint angles for effective path planning, enabling efficient pick-and-stack operations with static and dynamic blocks. Employed ROS framework and Gazebo for simulations during development.
+Resources: [pdfs/MEAM_5200_Final_Report_Irene.pdf Final Report]
+~~~
+
+
+
+
+
 == Spacecraft Attitude Control using Derivative-free Purely Adaptive Controller
 
 ~~~
